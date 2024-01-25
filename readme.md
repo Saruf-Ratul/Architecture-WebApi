@@ -115,9 +115,9 @@ The goal is to learn and share knowledge and use it as reference for new project
 
 ## PACKAGES
 
-**Source:** [https://github.com/rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore)
+**Source:** [https://github.com/Saruf-Ratul?tab=repositories](https://github.com/Saruf-Ratul?tab=repositories)
 
-**Published:** [https://www.nuget.org/profiles/rafaelfgx](https://www.nuget.org/profiles/rafaelfgx)
+**Published:** [https://www.nuget.org/packages/UniqueID/](https://www.nuget.org/packages/UniqueID/)
 
 ## LAYERS
 
@@ -239,4 +239,6 @@ It configures the entity and its properties in the database.
 
 ### Repository
 
-It inherits from the generic repository and only implements specific methods.
+It inherits from the generic repository and only implements specific methods.#   A r c h i t e c t u r e - W e b A p i 
+ 
+ 
